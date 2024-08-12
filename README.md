@@ -1,4 +1,4 @@
-# EEG Classification Project
+# MEG Classification Project
 
 ## Updates
 
